@@ -95,4 +95,7 @@ func main() {
 
 	promptOptions(&myBill)
 
+	fmt.Print("Press enter to exit.....")
+	fmt.Scanln()
+
 }
