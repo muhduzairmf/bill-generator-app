@@ -4,7 +4,7 @@ Bill Generator App is an application to generate the bill using Go programming l
 
 If you are using Windows operating system, you can [download this zip file](https://github.com/muhduzairmf/bill-generator-app/releases/tag/v1.0) and extract it. The BillGenerator.exe is ready to use.        
 
-If you are using MacOS or any Linux-based operating system, you still can use it by simply run and build the executable program. To do that, please make sure that you has installed the [Go](https://go.dev/dl/) compiler and extract [the binaries/source code of this app](https://github.com/muhduzairmf/bill-generator-app/releases/tag/v1.0). Then, open the terminal and type        
+If you are using MacOS or any Linux-based operating system, you still can use it by simply run and build the executable program. To do that, please make sure that you has installed the [Go](https://go.dev/dl/) compiler and extract [the binaries/source code of this app](https://github.com/muhduzairmf/bill-generator-app/releases/tag/v1.0). Then, open the terminal on the directory of the extracted folder and type        
 
 ```Bash
     go build main.go bill.go
